@@ -1,51 +1,26 @@
-# مصفوفة من الكائنات
+  <h1 align="right"> super students 2 </h1>
 
-## * عمل struct
-
-#### تعريف struct بوضع الاسم ٫ بهذه الطريقة 
-
-```
-struct NewStruct {
-                 ……
-                 ……
-                }
-```
+<p dir="rtl">
+<img src="/ss2.gif" width="200" alt="alt_text" title="image_tooltip">
+</p>
 
 
-
-
-## * عمل الخصائص properties لل struct
-
-
-#### طريقة عمل الخصائص هكذا ٫ ووضع النوع لكل properties
-
-```
-struct NewStruct {
-         var prop1 : String
-         var prop2 : Int
-           }
-```
-
-
-
-## عمل المصفوفة array
-
-
-#### تعريف متغير ليكون مصفوفة تحتوي على كائنات من struct التي تم تعريفها ٫ بهذه الطريقة 
-
-
-
-```
-var NewArray = [NewStruct(prop1: "a", prop2: 1), NewStruct(pror1: "b", pror2: 2)]
-```
-
+<br>
 
 
 ---
 
 
+<p dir="rtl">
+<strong>طريقة البرنامج</strong></p>
+
 
 
 <p dir="rtl">
-<img src="coronaApp.png" width="200" alt="alt_text" title="image_tooltip">
-</p>
+* عندما الضغط على الزر let's go فإنه ستظهر صفحة جديدة فيها مربع النص مع التاريخ.
+
+<p dir="rtl">
+Hint : تسمى هذه الصفحة الجديدة Sheet</p>
+
+<p dir="rtl">
+* يجب أن يتم نقل المحتوى في الصفحة الثانية "النص و التاريخ" إلى الصفحة الأولى وتخزينه في مصفوفة ليتم عرضه كما بالشكل.
